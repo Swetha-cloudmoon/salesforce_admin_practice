@@ -10,4 +10,4 @@ Hands-on Salesforce Admin configuration practice completed in a Developer Org.
 
 ## Screenshots
 
-(Screenshots below show each configuration step)Hands on salesforce admin practice_permissions sets,object permissions,validation rules
+(Screenshots below show each configuration step)
